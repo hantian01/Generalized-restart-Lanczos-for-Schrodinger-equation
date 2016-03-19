@@ -1,6 +1,6 @@
 Schrödinger equation solver in finite element formalism by generalized-restart Lanczos method
 ===
-* A MPI-paralleled solver for 2D time-independent Schrödinger equation in paper: "Generalized-restart Lanczos Method for Schrödinger Equation in Semiconductor Simulation" by Hantian Zhang and Xiaolin Guo.
+* A MPI-paralleled solver for 2D time-independent Schrödinger equation in paper: "Generalized-restart Lanczos Method for Schrödinger Equation in Finite Element Method" by Hantian Zhang and Xiaolin Guo.
 * Numerical test of "Section 4.2.1: Test on 2D quantum harmonic oscillator".
 * Note the potential is modified according to "Section 4.3.1: Scaling".
 
